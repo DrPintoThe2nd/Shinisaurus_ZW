@@ -1,0 +1,31 @@
+#cleaned and filtered data using clumpify and trim galore
+
+bash trim_reads_paired.sh;
+cd trimmed_reads;
+bash remove_PCR_dups.sh;
+cd cleaned_reads;
+bash minimap2_mapping.sh ../Shinisaurus_crocodilurus_Xie_etal.2022.fasta;
+cd ../bams;
+ref_map.pl -T 8 --samples ./ --popmap ../popmap.tsv -o ./ --time-components
+populations -P ./ -M ../popmap.tsv -O ./ -e sbfI -r 0.8 -f p_value -t 8 --ordered-export --vcf
+
+sed -i 's/CM037876.1/LG_1/g' populations.snps.vcf
+sed -i 's/CM037877.1/LG_2/g' populations.snps.vcf
+sed -i 's/CM037878.1/LG_3/g' populations.snps.vcf
+sed -i 's/CM037879.1/LG_4/g' populations.snps.vcf
+sed -i 's/CM037880.1/LG_5/g' populations.snps.vcf
+sed -i 's/CM037881.1/LG_6/g' populations.snps.vcf
+sed -i 's/CM037882.1/LG_7/g' populations.snps.vcf
+sed -i 's/CM037883.1/LG_8/g' populations.snps.vcf
+sed -i 's/CM037884.1/LG_9/g' populations.snps.vcf
+sed -i 's/CM037885.1/LG_10/g' populations.snps.vcf
+sed -i 's/CM037886.1/LG_11/g' populations.snps.vcf
+sed -i 's/CM037887.1/LG_12/g' populations.snps.vcf
+sed -i 's/CM037888.1/LG_13/g' populations.snps.vcf
+sed -i 's/CM037889.1/LG_14/g' populations.snps.vcf
+sed -i 's/CM037890.1/LG_15/g' populations.snps.vcf
+sed -i 's/CM037891.1/LG_16/g' populations.snps.vcf
+
+pigz populations.snps.vcf
+vcftools --gzvcf populations.snps.vcf.gz --weir-fst-pop females.txt --weir-fst-pop males.txt --fst-window-size 500000 --fst-window-step 500000 --out RADseq_fst
+
