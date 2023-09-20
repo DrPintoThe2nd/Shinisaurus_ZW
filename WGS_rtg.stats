@@ -1,0 +1,904 @@
+Location                     : freebayes_calls.vcf.gz
+Failed Filters               : 0
+Passed Filters               : 287770285
+No Genotypes                 : 1290654
+
+Sample Name: VN_10_Vietnam_F
+SNPs                         : 623120
+MNPs                         : 49629
+Insertions                   : 71122
+Deletions                    : 85368
+Indels                       : 47198
+Same as reference            : 135443783
+Missing Genotype             : 150159411
+SNP Transitions/Transversions: 1.79 (721822/403919)
+Total Het/Hom ratio          : 0.23 (166676/709761)
+SNP Het/Hom ratio            : 0.24 (121011/502109)
+MNP Het/Hom ratio            : 0.22 (8949/40680)
+Insertion Het/Hom ratio      : 0.21 (12471/58651)
+Deletion Het/Hom ratio       : 0.19 (13919/71449)
+Indel Het/Hom ratio          : 0.28 (10326/36872)
+Insertion/Deletion ratio     : 0.83 (71122/85368)
+Indel/SNP+MNP ratio          : 0.30 (203688/672749)
+
+Sample Name: VN_02_Vietnam_M
+SNPs                         : 571417
+MNPs                         : 46777
+Insertions                   : 66355
+Deletions                    : 80533
+Indels                       : 44126
+Same as reference            : 121919404
+Missing Genotype             : 163751019
+SNP Transitions/Transversions: 1.80 (677633/376082)
+Total Het/Hom ratio          : 0.18 (124570/684638)
+SNP Het/Hom ratio            : 0.19 (89484/481933)
+MNP Het/Hom ratio            : 0.16 (6610/40167)
+Insertion Het/Hom ratio      : 0.17 (9709/56646)
+Deletion Het/Hom ratio       : 0.15 (10707/69826)
+Indel Het/Hom ratio          : 0.22 (8060/36066)
+Insertion/Deletion ratio     : 0.82 (66355/80533)
+Indel/SNP+MNP ratio          : 0.31 (191014/618194)
+
+Sample Name: VN_01_Vietnam_M
+SNPs                         : 671766
+MNPs                         : 54301
+Insertions                   : 77476
+Deletions                    : 92500
+Indels                       : 51186
+Same as reference            : 142822426
+Missing Genotype             : 142709976
+SNP Transitions/Transversions: 1.79 (778131/435067)
+Total Het/Hom ratio          : 0.24 (181404/765825)
+SNP Het/Hom ratio            : 0.24 (130882/540884)
+MNP Het/Hom ratio            : 0.22 (9920/44381)
+Insertion Het/Hom ratio      : 0.22 (13999/63477)
+Deletion Het/Hom ratio       : 0.20 (15462/77038)
+Indel Het/Hom ratio          : 0.28 (11141/40045)
+Insertion/Deletion ratio     : 0.84 (77476/92500)
+Indel/SNP+MNP ratio          : 0.30 (221162/726067)
+
+Sample Name: ScBGI_07_M
+SNPs                         : 496988
+MNPs                         : 45123
+Insertions                   : 58421
+Deletions                    : 68734
+Indels                       : 35970
+Same as reference            : 117848438
+Missing Genotype             : 167925957
+SNP Transitions/Transversions: 1.91 (629159/329985)
+Total Het/Hom ratio          : 0.08 (52694/652542)
+SNP Het/Hom ratio            : 0.08 (34954/462034)
+MNP Het/Hom ratio            : 0.07 (2876/42247)
+Insertion Het/Hom ratio      : 0.09 (4929/53492)
+Deletion Het/Hom ratio       : 0.09 (5769/62965)
+Indel Het/Hom ratio          : 0.13 (4166/31804)
+Insertion/Deletion ratio     : 0.85 (58421/68734)
+Indel/SNP+MNP ratio          : 0.30 (163125/542111)
+
+Sample Name: ScBGI_06_M
+SNPs                         : 615599
+MNPs                         : 50802
+Insertions                   : 71848
+Deletions                    : 77368
+Indels                       : 40398
+Same as reference            : 139317303
+Missing Genotype             : 146306313
+SNP Transitions/Transversions: 1.85 (750032/405198)
+Total Het/Hom ratio          : 0.14 (102060/753955)
+SNP Het/Hom ratio            : 0.14 (76209/539390)
+MNP Het/Hom ratio            : 0.11 (5087/45715)
+Insertion Het/Hom ratio      : 0.12 (7523/64325)
+Deletion Het/Hom ratio       : 0.11 (7856/69512)
+Indel Het/Hom ratio          : 0.15 (5385/35013)
+Insertion/Deletion ratio     : 0.93 (71848/77368)
+Indel/SNP+MNP ratio          : 0.28 (189614/666401)
+
+Sample Name: ScBGI_05_M
+SNPs                         : 66582
+MNPs                         : 3439
+Insertions                   : 5949
+Deletions                    : 8121
+Indels                       : 2045
+Same as reference            : 29270477
+Missing Genotype             : 257123018
+SNP Transitions/Transversions: 1.48 (77128/52228)
+Total Het/Hom ratio          : 0.06 (4590/81546)
+SNP Het/Hom ratio            : 0.06 (3813/62769)
+MNP Het/Hom ratio            : 0.02 (57/3382)
+Insertion Het/Hom ratio      : 0.03 (178/5771)
+Deletion Het/Hom ratio       : 0.04 (307/7814)
+Indel Het/Hom ratio          : 0.13 (235/1810)
+Insertion/Deletion ratio     : 0.73 (5949/8121)
+Indel/SNP+MNP ratio          : 0.23 (16115/70021)
+
+Sample Name: ScBGI_04_M
+SNPs                         : 104314
+MNPs                         : 5414
+Insertions                   : 9456
+Deletions                    : 13005
+Indels                       : 3189
+Same as reference            : 47468299
+Missing Genotype             : 238875954
+SNP Transitions/Transversions: 1.56 (122237/78122)
+Total Het/Hom ratio          : 0.08 (9533/125845)
+SNP Het/Hom ratio            : 0.09 (8292/96022)
+MNP Het/Hom ratio            : 0.03 (138/5276)
+Insertion Het/Hom ratio      : 0.03 (314/9142)
+Deletion Het/Hom ratio       : 0.04 (455/12550)
+Indel Het/Hom ratio          : 0.12 (334/2855)
+Insertion/Deletion ratio     : 0.73 (9456/13005)
+Indel/SNP+MNP ratio          : 0.23 (25650/109728)
+
+Sample Name: ScBGI_03_M
+SNPs                         : 51553
+MNPs                         : 2473
+Insertions                   : 4334
+Deletions                    : 5953
+Indels                       : 1485
+Same as reference            : 16686877
+Missing Genotype             : 269726956
+SNP Transitions/Transversions: 1.32 (57296/43338)
+Total Het/Hom ratio          : 0.05 (3200/62598)
+SNP Het/Hom ratio            : 0.05 (2478/49075)
+MNP Het/Hom ratio            : 0.02 (43/2430)
+Insertion Het/Hom ratio      : 0.05 (212/4122)
+Deletion Het/Hom ratio       : 0.05 (285/5668)
+Indel Het/Hom ratio          : 0.14 (182/1303)
+Insertion/Deletion ratio     : 0.73 (4334/5953)
+Indel/SNP+MNP ratio          : 0.22 (11772/54026)
+
+Sample Name: ScBGI_02_M
+SNPs                         : 90945
+MNPs                         : 4705
+Insertions                   : 8424
+Deletions                    : 11635
+Indels                       : 2762
+Same as reference            : 36433921
+Missing Genotype             : 249927239
+SNP Transitions/Transversions: 1.52 (106047/69746)
+Total Het/Hom ratio          : 0.06 (7138/111333)
+SNP Het/Hom ratio            : 0.07 (6115/84830)
+MNP Het/Hom ratio            : 0.02 (99/4606)
+Insertion Het/Hom ratio      : 0.03 (248/8176)
+Deletion Het/Hom ratio       : 0.03 (380/11255)
+Indel Het/Hom ratio          : 0.12 (296/2466)
+Insertion/Deletion ratio     : 0.72 (8424/11635)
+Indel/SNP+MNP ratio          : 0.24 (22821/95650)
+
+Sample Name: GXDGS_14_Guangxi_F
+SNPs                         : 457247
+MNPs                         : 37072
+Insertions                   : 60104
+Deletions                    : 66944
+Indels                       : 34667
+Same as reference            : 133496955
+Missing Genotype             : 152326642
+SNP Transitions/Transversions: 1.63 (505536/309423)
+Total Het/Hom ratio          : 0.26 (134713/521321)
+SNP Het/Hom ratio            : 0.28 (99874/357373)
+MNP Het/Hom ratio            : 0.21 (6534/30538)
+Insertion Het/Hom ratio      : 0.19 (9515/50589)
+Deletion Het/Hom ratio       : 0.21 (11495/55449)
+Indel Het/Hom ratio          : 0.27 (7295/27372)
+Insertion/Deletion ratio     : 0.90 (60104/66944)
+Indel/SNP+MNP ratio          : 0.33 (161715/494319)
+
+Sample Name: GXDGS_12_Guangxi_F
+SNPs                         : 376550
+MNPs                         : 32082
+Insertions                   : 55305
+Deletions                    : 60408
+Indels                       : 29575
+Same as reference            : 129043461
+Missing Genotype             : 156882250
+SNP Transitions/Transversions: 1.59 (407426/255799)
+Total Het/Hom ratio          : 0.29 (123982/429938)
+SNP Het/Hom ratio            : 0.31 (90146/286404)
+MNP Het/Hom ratio            : 0.24 (6164/25918)
+Insertion Het/Hom ratio      : 0.20 (9401/45904)
+Deletion Het/Hom ratio       : 0.24 (11758/48650)
+Indel Het/Hom ratio          : 0.28 (6513/23062)
+Insertion/Deletion ratio     : 0.92 (55305/60408)
+Indel/SNP+MNP ratio          : 0.36 (145288/408632)
+
+Sample Name: ScBGI_01_M
+SNPs                         : 82387
+MNPs                         : 4290
+Insertions                   : 7616
+Deletions                    : 10453
+Indels                       : 2665
+Same as reference            : 32558287
+Missing Genotype             : 253813933
+SNP Transitions/Transversions: 1.52 (96383/63328)
+Total Het/Hom ratio          : 0.06 (6052/101359)
+SNP Het/Hom ratio            : 0.07 (5076/77311)
+MNP Het/Hom ratio            : 0.02 (87/4203)
+Insertion Het/Hom ratio      : 0.03 (257/7359)
+Deletion Het/Hom ratio       : 0.04 (366/10087)
+Indel Het/Hom ratio          : 0.11 (266/2399)
+Insertion/Deletion ratio     : 0.73 (7616/10453)
+Indel/SNP+MNP ratio          : 0.24 (20734/86677)
+
+Sample Name: GXDGS_11_Guangxi_F
+SNPs                         : 304677
+MNPs                         : 25757
+Insertions                   : 50406
+Deletions                    : 52867
+Indels                       : 24347
+Same as reference            : 132095090
+Missing Genotype             : 153926487
+SNP Transitions/Transversions: 1.47 (310389/210498)
+Total Het/Hom ratio          : 0.36 (121194/336860)
+SNP Het/Hom ratio            : 0.41 (88694/215983)
+MNP Het/Hom ratio            : 0.28 (5600/20157)
+Insertion Het/Hom ratio      : 0.22 (9166/41240)
+Deletion Het/Hom ratio       : 0.30 (12128/40739)
+Indel Het/Hom ratio          : 0.30 (5606/18741)
+Insertion/Deletion ratio     : 0.95 (50406/52867)
+Indel/SNP+MNP ratio          : 0.39 (127620/330434)
+
+Sample Name: GXDGS_10_Guangxi_F
+SNPs                         : 415339
+MNPs                         : 34587
+Insertions                   : 53610
+Deletions                    : 61339
+Indels                       : 31503
+Same as reference            : 119016912
+Missing Genotype             : 166866341
+SNP Transitions/Transversions: 1.60 (462283/288175)
+Total Het/Hom ratio          : 0.22 (108146/488232)
+SNP Het/Hom ratio            : 0.24 (80506/334833)
+MNP Het/Hom ratio            : 0.17 (5132/29455)
+Insertion Het/Hom ratio      : 0.16 (7499/46111)
+Deletion Het/Hom ratio       : 0.17 (9112/52227)
+Indel Het/Hom ratio          : 0.23 (5897/25606)
+Insertion/Deletion ratio     : 0.87 (53610/61339)
+Indel/SNP+MNP ratio          : 0.33 (146452/449926)
+
+Sample Name: GDMM_01_Guangdong_F
+SNPs                         : 548363
+MNPs                         : 45070
+Insertions                   : 64732
+Deletions                    : 76620
+Indels                       : 42054
+Same as reference            : 124966121
+Missing Genotype             : 160736671
+SNP Transitions/Transversions: 1.76 (630965/358841)
+Total Het/Hom ratio          : 0.23 (146736/630103)
+SNP Het/Hom ratio            : 0.24 (107307/441056)
+MNP Het/Hom ratio            : 0.21 (7953/37117)
+Insertion Het/Hom ratio      : 0.20 (10620/54112)
+Deletion Het/Hom ratio       : 0.19 (12133/64487)
+Indel Het/Hom ratio          : 0.26 (8723/33331)
+Insertion/Deletion ratio     : 0.84 (64732/76620)
+Indel/SNP+MNP ratio          : 0.31 (183406/593433)
+
+Sample Name: GDLK_04_Guangdong_F
+SNPs                         : 490789
+MNPs                         : 41131
+Insertions                   : 58425
+Deletions                    : 66174
+Indels                       : 37057
+Same as reference            : 110008257
+Missing Genotype             : 175777798
+SNP Transitions/Transversions: 1.68 (581808/345521)
+Total Het/Hom ratio          : 0.12 (73524/620052)
+SNP Het/Hom ratio            : 0.13 (54542/436247)
+MNP Het/Hom ratio            : 0.09 (3341/37790)
+Insertion Het/Hom ratio      : 0.10 (5146/53279)
+Deletion Het/Hom ratio       : 0.09 (5644/60530)
+Indel Het/Hom ratio          : 0.15 (4851/32206)
+Insertion/Deletion ratio     : 0.88 (58425/66174)
+Indel/SNP+MNP ratio          : 0.30 (161656/531920)
+
+Sample Name: GDLK_09_Guangdong_M
+SNPs                         : 539641
+MNPs                         : 46287
+Insertions                   : 66970
+Deletions                    : 76303
+Indels                       : 41506
+Same as reference            : 119594502
+Missing Genotype             : 166114422
+SNP Transitions/Transversions: 1.76 (643944/366500)
+Total Het/Hom ratio          : 0.15 (97924/672783)
+SNP Het/Hom ratio            : 0.15 (69197/470444)
+MNP Het/Hom ratio            : 0.13 (5193/41094)
+Insertion Het/Hom ratio      : 0.14 (8088/58882)
+Deletion Het/Hom ratio       : 0.13 (8896/67407)
+Indel Het/Hom ratio          : 0.19 (6550/34956)
+Insertion/Deletion ratio     : 0.88 (66970/76303)
+Indel/SNP+MNP ratio          : 0.32 (184779/585928)
+
+Sample Name: GXDGS_09_Guangxi_M
+SNPs                         : 454396
+MNPs                         : 37376
+Insertions                   : 57346
+Deletions                    : 65278
+Indels                       : 33970
+Same as reference            : 125633011
+Missing Genotype             : 160198254
+SNP Transitions/Transversions: 1.59 (499419/314319)
+Total Het/Hom ratio          : 0.24 (126674/521692)
+SNP Het/Hom ratio            : 0.27 (95387/359009)
+MNP Het/Hom ratio            : 0.19 (6050/31326)
+Insertion Het/Hom ratio      : 0.18 (8575/48771)
+Deletion Het/Hom ratio       : 0.18 (10025/55253)
+Indel Het/Hom ratio          : 0.24 (6637/27333)
+Insertion/Deletion ratio     : 0.88 (57346/65278)
+Indel/SNP+MNP ratio          : 0.32 (156594/491772)
+
+Sample Name: ScBGI_08_M
+SNPs                         : 89124
+MNPs                         : 4490
+Insertions                   : 7949
+Deletions                    : 10588
+Indels                       : 2701
+Same as reference            : 32807969
+Missing Genotype             : 253556810
+SNP Transitions/Transversions: 1.47 (102348/69736)
+Total Het/Hom ratio          : 0.07 (7272/107580)
+SNP Het/Hom ratio            : 0.07 (6176/82948)
+MNP Het/Hom ratio            : 0.02 (90/4400)
+Insertion Het/Hom ratio      : 0.04 (290/7659)
+Deletion Het/Hom ratio       : 0.04 (415/10173)
+Indel Het/Hom ratio          : 0.13 (301/2400)
+Insertion/Deletion ratio     : 0.75 (7949/10588)
+Indel/SNP+MNP ratio          : 0.23 (21238/93614)
+
+Sample Name: GDLK_06_Guangdong_F
+SNPs                         : 454120
+MNPs                         : 38367
+Insertions                   : 53750
+Deletions                    : 61944
+Indels                       : 34445
+Same as reference            : 102892597
+Missing Genotype             : 182944408
+SNP Transitions/Transversions: 1.69 (539177/319587)
+Total Het/Hom ratio          : 0.12 (67020/575606)
+SNP Het/Hom ratio            : 0.12 (49720/404400)
+MNP Het/Hom ratio            : 0.09 (3064/35303)
+Insertion Het/Hom ratio      : 0.10 (4690/49060)
+Deletion Het/Hom ratio       : 0.09 (5134/56810)
+Indel Het/Hom ratio          : 0.15 (4412/30033)
+Insertion/Deletion ratio     : 0.87 (53750/61944)
+Indel/SNP+MNP ratio          : 0.30 (150139/492487)
+
+Sample Name: VN_06_Vietnam_F
+SNPs                         : 670869
+MNPs                         : 55137
+Insertions                   : 79406
+Deletions                    : 95055
+Indels                       : 52883
+Same as reference            : 142669308
+Missing Genotype             : 142856973
+SNP Transitions/Transversions: 1.83 (777724/424164)
+Total Het/Hom ratio          : 0.26 (197743/755607)
+SNP Het/Hom ratio            : 0.26 (140431/530438)
+MNP Het/Hom ratio            : 0.25 (10855/44282)
+Insertion Het/Hom ratio      : 0.25 (16026/63380)
+Deletion Het/Hom ratio       : 0.23 (17606/77449)
+Indel Het/Hom ratio          : 0.32 (12825/40058)
+Insertion/Deletion ratio     : 0.84 (79406/95055)
+Indel/SNP+MNP ratio          : 0.31 (227344/726006)
+
+Sample Name: GXDGS_13_Guangxi_M
+SNPs                         : 432007
+MNPs                         : 36051
+Insertions                   : 60678
+Deletions                    : 65958
+Indels                       : 33067
+Same as reference            : 133811446
+Missing Genotype             : 152040424
+SNP Transitions/Transversions: 1.60 (472519/294983)
+Total Het/Hom ratio          : 0.27 (133099/494662)
+SNP Het/Hom ratio            : 0.29 (96818/335189)
+MNP Het/Hom ratio            : 0.22 (6454/29597)
+Insertion Het/Hom ratio      : 0.20 (10266/50412)
+Deletion Het/Hom ratio       : 0.24 (12642/53316)
+Indel Het/Hom ratio          : 0.26 (6919/26148)
+Insertion/Deletion ratio     : 0.92 (60678/65958)
+Indel/SNP+MNP ratio          : 0.34 (159703/468058)
+
+Sample Name: GDLK_05_Guangdong_F
+SNPs                         : 466931
+MNPs                         : 39443
+Insertions                   : 56345
+Deletions                    : 64567
+Indels                       : 35837
+Same as reference            : 105751787
+Missing Genotype             : 180064721
+SNP Transitions/Transversions: 1.71 (557223/326582)
+Total Het/Hom ratio          : 0.12 (68953/594170)
+SNP Het/Hom ratio            : 0.12 (50297/416634)
+MNP Het/Hom ratio            : 0.09 (3224/36219)
+Insertion Het/Hom ratio      : 0.10 (5131/51214)
+Deletion Het/Hom ratio       : 0.09 (5521/59046)
+Indel Het/Hom ratio          : 0.15 (4780/31057)
+Insertion/Deletion ratio     : 0.87 (56345/64567)
+Indel/SNP+MNP ratio          : 0.31 (156749/506374)
+
+Sample Name: GDMM_03_Guangdong_M
+SNPs                         : 621343
+MNPs                         : 50846
+Insertions                   : 74000
+Deletions                    : 85604
+Indels                       : 47694
+Same as reference            : 136572097
+Missing Genotype             : 149028047
+SNP Transitions/Transversions: 1.74 (700978/403197)
+Total Het/Hom ratio          : 0.28 (190763/688724)
+SNP Het/Hom ratio            : 0.29 (139103/482240)
+MNP Het/Hom ratio            : 0.25 (10305/40541)
+Insertion Het/Hom ratio      : 0.24 (14187/59813)
+Deletion Het/Hom ratio       : 0.23 (15791/69813)
+Indel Het/Hom ratio          : 0.31 (11377/36317)
+Insertion/Deletion ratio     : 0.86 (74000/85604)
+Indel/SNP+MNP ratio          : 0.31 (207298/672189)
+
+Sample Name: GDLK_03_Guangdong_M
+SNPs                         : 468551
+MNPs                         : 39649
+Insertions                   : 56486
+Deletions                    : 64817
+Indels                       : 35919
+Same as reference            : 106038476
+Missing Genotype             : 179775733
+SNP Transitions/Transversions: 1.70 (556469/328142)
+Total Het/Hom ratio          : 0.12 (72084/593338)
+SNP Het/Hom ratio            : 0.13 (52756/415795)
+MNP Het/Hom ratio            : 0.09 (3335/36314)
+Insertion Het/Hom ratio      : 0.10 (5280/51206)
+Deletion Het/Hom ratio       : 0.10 (5815/59002)
+Indel Het/Hom ratio          : 0.16 (4898/31021)
+Insertion/Deletion ratio     : 0.87 (56486/64817)
+Indel/SNP+MNP ratio          : 0.31 (157222/508200)
+
+Sample Name: GXDGS_16_Guangxi_F
+SNPs                         : 423045
+MNPs                         : 36134
+Insertions                   : 61669
+Deletions                    : 66721
+Indels                       : 33031
+Same as reference            : 138109897
+Missing Genotype             : 147749134
+SNP Transitions/Transversions: 1.62 (461539/284388)
+Total Het/Hom ratio          : 0.29 (139337/481263)
+SNP Het/Hom ratio            : 0.31 (100476/322569)
+MNP Het/Hom ratio            : 0.24 (7050/29084)
+Insertion Het/Hom ratio      : 0.21 (10868/50801)
+Deletion Het/Hom ratio       : 0.26 (13561/53160)
+Indel Het/Hom ratio          : 0.29 (7382/25649)
+Insertion/Deletion ratio     : 0.92 (61669/66721)
+Indel/SNP+MNP ratio          : 0.35 (161421/459179)
+
+Sample Name: GDMM_11_Guangdong_M
+SNPs                         : 637090
+MNPs                         : 52169
+Insertions                   : 76331
+Deletions                    : 88248
+Indels                       : 49240
+Same as reference            : 142019558
+Missing Genotype             : 143556995
+SNP Transitions/Transversions: 1.75 (712079/407996)
+Total Het/Hom ratio          : 0.31 (212584/690494)
+SNP Het/Hom ratio            : 0.32 (154694/482396)
+MNP Het/Hom ratio            : 0.29 (11741/40428)
+Insertion Het/Hom ratio      : 0.26 (15885/60446)
+Deletion Het/Hom ratio       : 0.25 (17624/70624)
+Indel Het/Hom ratio          : 0.35 (12640/36600)
+Insertion/Deletion ratio     : 0.86 (76331/88248)
+Indel/SNP+MNP ratio          : 0.31 (213819/689259)
+
+Sample Name: GDLK_10_Guangdong_F
+SNPs                         : 450257
+MNPs                         : 37919
+Insertions                   : 53875
+Deletions                    : 61760
+Indels                       : 34172
+Same as reference            : 102196471
+Missing Genotype             : 183645177
+SNP Transitions/Transversions: 1.69 (535626/316443)
+Total Het/Hom ratio          : 0.12 (66346/571637)
+SNP Het/Hom ratio            : 0.12 (48687/401570)
+MNP Het/Hom ratio            : 0.09 (3037/34882)
+Insertion Het/Hom ratio      : 0.10 (4801/49074)
+Deletion Het/Hom ratio       : 0.09 (5274/56486)
+Indel Het/Hom ratio          : 0.15 (4547/29625)
+Insertion/Deletion ratio     : 0.87 (53875/61760)
+Indel/SNP+MNP ratio          : 0.31 (149807/488176)
+
+Sample Name: GDLK_07_Guangdong_F
+SNPs                         : 456434
+MNPs                         : 38470
+Insertions                   : 54811
+Deletions                    : 62960
+Indels                       : 34848
+Same as reference            : 103560511
+Missing Genotype             : 182271597
+SNP Transitions/Transversions: 1.70 (541825/319656)
+Total Het/Hom ratio          : 0.12 (70301/577222)
+SNP Het/Hom ratio            : 0.13 (51637/404797)
+MNP Het/Hom ratio            : 0.09 (3272/35198)
+Insertion Het/Hom ratio      : 0.10 (5082/49729)
+Deletion Het/Hom ratio       : 0.10 (5568/57392)
+Indel Het/Hom ratio          : 0.16 (4742/30106)
+Insertion/Deletion ratio     : 0.87 (54811/62960)
+Indel/SNP+MNP ratio          : 0.31 (152619/494904)
+
+Sample Name: GDMM_10_Guangdong_M
+SNPs                         : 583002
+MNPs                         : 47068
+Insertions                   : 69477
+Deletions                    : 81245
+Indels                       : 44731
+Same as reference            : 132520739
+Missing Genotype             : 153133369
+SNP Transitions/Transversions: 1.74 (655076/376082)
+Total Het/Hom ratio          : 0.29 (184843/640680)
+SNP Het/Hom ratio            : 0.30 (135359/447643)
+MNP Het/Hom ratio            : 0.27 (10025/37043)
+Insertion Het/Hom ratio      : 0.24 (13573/55904)
+Deletion Het/Hom ratio       : 0.23 (15139/66106)
+Indel Het/Hom ratio          : 0.32 (10747/33984)
+Insertion/Deletion ratio     : 0.86 (69477/81245)
+Indel/SNP+MNP ratio          : 0.31 (195453/630070)
+
+Sample Name: GXDGS_02_Guangxi_F
+SNPs                         : 376772
+MNPs                         : 31582
+Insertions                   : 48034
+Deletions                    : 55168
+Indels                       : 28693
+Same as reference            : 109235691
+Missing Genotype             : 176703691
+SNP Transitions/Transversions: 1.58 (421807/267136)
+Total Het/Hom ratio          : 0.19 (86091/454158)
+SNP Het/Hom ratio            : 0.21 (64838/311934)
+MNP Het/Hom ratio            : 0.14 (3797/27785)
+Insertion Het/Hom ratio      : 0.14 (5877/42157)
+Deletion Het/Hom ratio       : 0.14 (6863/48305)
+Indel Het/Hom ratio          : 0.20 (4716/23977)
+Insertion/Deletion ratio     : 0.87 (48034/55168)
+Indel/SNP+MNP ratio          : 0.32 (131895/408354)
+
+Sample Name: GDMM_02_Guangdong_F
+SNPs                         : 592816
+MNPs                         : 48105
+Insertions                   : 69476
+Deletions                    : 81890
+Indels                       : 45311
+Same as reference            : 132290790
+Missing Genotype             : 153351243
+SNP Transitions/Transversions: 1.73 (672549/389386)
+Total Het/Hom ratio          : 0.25 (169118/668480)
+SNP Het/Hom ratio            : 0.26 (124173/468643)
+MNP Het/Hom ratio            : 0.23 (9130/38975)
+Insertion Het/Hom ratio      : 0.21 (12274/57202)
+Deletion Het/Hom ratio       : 0.20 (13559/68331)
+Indel Het/Hom ratio          : 0.28 (9982/35329)
+Insertion/Deletion ratio     : 0.85 (69476/81890)
+Indel/SNP+MNP ratio          : 0.31 (196677/640921)
+
+Sample Name: GDLK_01_Guangdong_M
+SNPs                         : 432035
+MNPs                         : 36414
+Insertions                   : 52048
+Deletions                    : 60067
+Indels                       : 33141
+Same as reference            : 99199045
+Missing Genotype             : 186666881
+SNP Transitions/Transversions: 1.70 (514853/302905)
+Total Het/Hom ratio          : 0.12 (63596/550109)
+SNP Het/Hom ratio            : 0.12 (46533/385502)
+MNP Het/Hom ratio            : 0.09 (2888/33526)
+Insertion Het/Hom ratio      : 0.10 (4659/47389)
+Deletion Het/Hom ratio       : 0.09 (5196/54871)
+Indel Het/Hom ratio          : 0.15 (4320/28821)
+Insertion/Deletion ratio     : 0.87 (52048/60067)
+Indel/SNP+MNP ratio          : 0.31 (145256/468449)
+
+Sample Name: GDMM_05_Guangdong_F
+SNPs                         : 622989
+MNPs                         : 50644
+Insertions                   : 72897
+Deletions                    : 84782
+Indels                       : 47532
+Same as reference            : 138098214
+Missing Genotype             : 147502573
+SNP Transitions/Transversions: 1.72 (693027/403742)
+Total Het/Hom ratio          : 0.30 (202763/676081)
+SNP Het/Hom ratio            : 0.32 (149788/473201)
+MNP Het/Hom ratio            : 0.29 (11261/39383)
+Insertion Het/Hom ratio      : 0.24 (14287/58610)
+Deletion Het/Hom ratio       : 0.23 (15866/68916)
+Indel Het/Hom ratio          : 0.32 (11561/35971)
+Insertion/Deletion ratio     : 0.86 (72897/84782)
+Indel/SNP+MNP ratio          : 0.30 (205211/673633)
+
+Sample Name: GDMM_06_Guangdong_F
+SNPs                         : 625019
+MNPs                         : 51013
+Insertions                   : 74879
+Deletions                    : 86292
+Indels                       : 47877
+Same as reference            : 142188384
+Missing Genotype             : 143406167
+SNP Transitions/Transversions: 1.73 (693419/399847)
+Total Het/Hom ratio          : 0.32 (215141/669939)
+SNP Het/Hom ratio            : 0.34 (157411/467608)
+MNP Het/Hom ratio            : 0.31 (12036/38977)
+Insertion Het/Hom ratio      : 0.27 (15803/59076)
+Deletion Het/Hom ratio       : 0.26 (17548/68744)
+Indel Het/Hom ratio          : 0.35 (12343/35534)
+Insertion/Deletion ratio     : 0.87 (74879/86292)
+Indel/SNP+MNP ratio          : 0.31 (209048/676032)
+
+Sample Name: GDMM_07_Guangdong_F
+SNPs                         : 556632
+MNPs                         : 45086
+Insertions                   : 65153
+Deletions                    : 76878
+Indels                       : 42763
+Same as reference            : 127516839
+Missing Genotype             : 158176280
+SNP Transitions/Transversions: 1.76 (629893/358846)
+Total Het/Hom ratio          : 0.28 (170160/616352)
+SNP Het/Hom ratio            : 0.29 (124984/431648)
+MNP Het/Hom ratio            : 0.26 (9184/35902)
+Insertion Het/Hom ratio      : 0.23 (12020/53133)
+Deletion Het/Hom ratio       : 0.22 (13721/63157)
+Indel Het/Hom ratio          : 0.32 (10251/32512)
+Insertion/Deletion ratio     : 0.85 (65153/76878)
+Indel/SNP+MNP ratio          : 0.31 (184794/601718)
+
+Sample Name: GXDGS_06_Guangxi_F
+SNPs                         : 417906
+MNPs                         : 34118
+Insertions                   : 53025
+Deletions                    : 59831
+Indels                       : 31298
+Same as reference            : 118223097
+Missing Genotype             : 167660356
+SNP Transitions/Transversions: 1.57 (462007/294703)
+Total Het/Hom ratio          : 0.21 (104177/492001)
+SNP Het/Hom ratio            : 0.23 (79384/338522)
+MNP Het/Hom ratio            : 0.16 (4794/29324)
+Insertion Het/Hom ratio      : 0.14 (6659/46366)
+Deletion Het/Hom ratio       : 0.15 (7899/51932)
+Indel Het/Hom ratio          : 0.21 (5441/25857)
+Insertion/Deletion ratio     : 0.89 (53025/59831)
+Indel/SNP+MNP ratio          : 0.32 (144154/452024)
+
+Sample Name: GDMM_08_Guangdong_F
+SNPs                         : 564067
+MNPs                         : 46213
+Insertions                   : 67468
+Deletions                    : 79118
+Indels                       : 43978
+Same as reference            : 130777700
+Missing Genotype             : 154901087
+SNP Transitions/Transversions: 1.76 (641123/363401)
+Total Het/Hom ratio          : 0.27 (170712/630132)
+SNP Het/Hom ratio            : 0.28 (124104/439963)
+MNP Het/Hom ratio            : 0.25 (9358/36855)
+Insertion Het/Hom ratio      : 0.23 (12585/54883)
+Deletion Het/Hom ratio       : 0.22 (14397/64721)
+Indel Het/Hom ratio          : 0.30 (10268/33710)
+Insertion/Deletion ratio     : 0.85 (67468/79118)
+Indel/SNP+MNP ratio          : 0.31 (190564/610280)
+
+Sample Name: GDMM_04_Guangdong_F
+SNPs                         : 598007
+MNPs                         : 48044
+Insertions                   : 68736
+Deletions                    : 80588
+Indels                       : 45029
+Same as reference            : 133739295
+Missing Genotype             : 151899932
+SNP Transitions/Transversions: 1.73 (671339/388161)
+Total Het/Hom ratio          : 0.28 (184724/655680)
+SNP Het/Hom ratio            : 0.30 (137039/460968)
+MNP Het/Hom ratio            : 0.26 (9932/38112)
+Insertion Het/Hom ratio      : 0.23 (12767/55969)
+Deletion Het/Hom ratio       : 0.22 (14309/66279)
+Indel Het/Hom ratio          : 0.31 (10677/34352)
+Insertion/Deletion ratio     : 0.85 (68736/80588)
+Indel/SNP+MNP ratio          : 0.30 (194353/646051)
+
+Sample Name: GDMM_09_Guangdong_M
+SNPs                         : 671325
+MNPs                         : 54858
+Insertions                   : 81150
+Deletions                    : 92503
+Indels                       : 51813
+Same as reference            : 146018077
+Missing Genotype             : 139509905
+SNP Transitions/Transversions: 1.79 (759717/423425)
+Total Het/Hom ratio          : 0.30 (221622/730027)
+SNP Het/Hom ratio            : 0.31 (160138/511187)
+MNP Het/Hom ratio            : 0.30 (12644/42214)
+Insertion Het/Hom ratio      : 0.26 (16972/64178)
+Deletion Het/Hom ratio       : 0.25 (18737/73766)
+Indel Het/Hom ratio          : 0.34 (13131/38682)
+Insertion/Deletion ratio     : 0.88 (81150/92503)
+Indel/SNP+MNP ratio          : 0.31 (225466/726183)
+
+Sample Name: VN_05_Vietnam_M
+SNPs                         : 653419
+MNPs                         : 52868
+Insertions                   : 75878
+Deletions                    : 91390
+Indels                       : 50682
+Same as reference            : 137807139
+Missing Genotype             : 147748255
+SNP Transitions/Transversions: 1.79 (757751/423347)
+Total Het/Hom ratio          : 0.23 (175538/748699)
+SNP Het/Hom ratio            : 0.24 (126285/527134)
+MNP Het/Hom ratio            : 0.22 (9469/43399)
+Insertion Het/Hom ratio      : 0.22 (13612/62266)
+Deletion Het/Hom ratio       : 0.20 (15024/76366)
+Indel Het/Hom ratio          : 0.28 (11148/39534)
+Insertion/Deletion ratio     : 0.83 (75878/91390)
+Indel/SNP+MNP ratio          : 0.31 (217950/706287)
+
+Sample Name: GXDGS_01_Guangxi_M
+SNPs                         : 430748
+MNPs                         : 36386
+Insertions                   : 58252
+Deletions                    : 65606
+Indels                       : 33478
+Same as reference            : 122997392
+Missing Genotype             : 162857769
+SNP Transitions/Transversions: 1.67 (488123/291527)
+Total Het/Hom ratio          : 0.22 (113953/510517)
+SNP Het/Hom ratio            : 0.24 (82154/348594)
+MNP Het/Hom ratio            : 0.19 (5746/30640)
+Insertion Het/Hom ratio      : 0.18 (8992/49260)
+Deletion Het/Hom ratio       : 0.19 (10640/54966)
+Indel Het/Hom ratio          : 0.24 (6421/27057)
+Insertion/Deletion ratio     : 0.89 (58252/65606)
+Indel/SNP+MNP ratio          : 0.34 (157336/467134)
+
+Sample Name: GXDGS_08_Guangxi_M
+SNPs                         : 414015
+MNPs                         : 33939
+Insertions                   : 51243
+Deletions                    : 58338
+Indels                       : 31105
+Same as reference            : 114915666
+Missing Genotype             : 170975325
+SNP Transitions/Transversions: 1.57 (462013/293843)
+Total Het/Hom ratio          : 0.19 (94177/494463)
+SNP Het/Hom ratio            : 0.21 (72439/341576)
+MNP Het/Hom ratio            : 0.14 (4189/29750)
+Insertion Het/Hom ratio      : 0.13 (5714/45529)
+Deletion Het/Hom ratio       : 0.13 (6865/51473)
+Indel Het/Hom ratio          : 0.19 (4970/26135)
+Insertion/Deletion ratio     : 0.88 (51243/58338)
+Indel/SNP+MNP ratio          : 0.31 (140686/447954)
+
+Sample Name: VN_03_Vietnam_M
+SNPs                         : 639030
+MNPs                         : 51659
+Insertions                   : 73916
+Deletions                    : 88993
+Indels                       : 49211
+Same as reference            : 136370522
+Missing Genotype             : 149206300
+SNP Transitions/Transversions: 1.81 (740181/408765)
+Total Het/Hom ratio          : 0.25 (180346/722463)
+SNP Het/Hom ratio            : 0.25 (129656/509374)
+MNP Het/Hom ratio            : 0.24 (9871/41788)
+Insertion Het/Hom ratio      : 0.23 (13933/59983)
+Deletion Het/Hom ratio       : 0.21 (15621/73372)
+Indel Het/Hom ratio          : 0.30 (11265/37946)
+Insertion/Deletion ratio     : 0.83 (73916/88993)
+Indel/SNP+MNP ratio          : 0.31 (212120/690689)
+
+Sample Name: ScBGI_13_M
+SNPs                         : 365790
+MNPs                         : 27578
+Insertions                   : 42775
+Deletions                    : 42585
+Indels                       : 20421
+Same as reference            : 100711907
+Missing Genotype             : 185268575
+SNP Transitions/Transversions: 1.85 (446050/240578)
+Total Het/Hom ratio          : 0.13 (56557/442592)
+SNP Het/Hom ratio            : 0.14 (45079/320711)
+MNP Het/Hom ratio            : 0.11 (2760/24818)
+Insertion Het/Hom ratio      : 0.08 (2998/39777)
+Deletion Het/Hom ratio       : 0.09 (3392/39193)
+Indel Het/Hom ratio          : 0.13 (2328/18093)
+Insertion/Deletion ratio     : 1.00 (42775/42585)
+Indel/SNP+MNP ratio          : 0.27 (105781/393368)
+
+Sample Name: GXDGS_04_Guangxi_F
+SNPs                         : 383548
+MNPs                         : 31855
+Insertions                   : 49312
+Deletions                    : 55786
+Indels                       : 29155
+Same as reference            : 110559782
+Missing Genotype             : 175370193
+SNP Transitions/Transversions: 1.58 (428552/271912)
+Total Het/Hom ratio          : 0.19 (88789/460867)
+SNP Het/Hom ratio            : 0.21 (66860/316688)
+MNP Het/Hom ratio            : 0.14 (3943/27912)
+Insertion Het/Hom ratio      : 0.14 (5964/43348)
+Deletion Het/Hom ratio       : 0.15 (7146/48640)
+Indel Het/Hom ratio          : 0.20 (4876/24279)
+Insertion/Deletion ratio     : 0.88 (49312/55786)
+Indel/SNP+MNP ratio          : 0.32 (134253/415403)
+
+Sample Name: GDLK_02_Guangdong_M
+SNPs                         : 447542
+MNPs                         : 37833
+Insertions                   : 53482
+Deletions                    : 61101
+Indels                       : 34079
+Same as reference            : 101472998
+Missing Genotype             : 184372596
+SNP Transitions/Transversions: 1.69 (531555/314664)
+Total Het/Hom ratio          : 0.12 (66681/567356)
+SNP Het/Hom ratio            : 0.12 (49101/398441)
+MNP Het/Hom ratio            : 0.09 (3108/34725)
+Insertion Het/Hom ratio      : 0.10 (4776/48706)
+Deletion Het/Hom ratio       : 0.09 (5158/55943)
+Indel Het/Hom ratio          : 0.15 (4538/29541)
+Insertion/Deletion ratio     : 0.88 (53482/61101)
+Indel/SNP+MNP ratio          : 0.31 (148662/485375)
+
+Sample Name: GXDGS_05_Guangxi_F
+SNPs                         : 426435
+MNPs                         : 35155
+Insertions                   : 55324
+Deletions                    : 62250
+Indels                       : 32332
+Same as reference            : 122376454
+Missing Genotype             : 163491681
+SNP Transitions/Transversions: 1.57 (469197/299183)
+Total Het/Hom ratio          : 0.23 (112511/498985)
+SNP Het/Hom ratio            : 0.25 (84772/341663)
+MNP Het/Hom ratio            : 0.17 (5137/30018)
+Insertion Het/Hom ratio      : 0.16 (7584/47740)
+Deletion Het/Hom ratio       : 0.17 (9202/53048)
+Indel Het/Hom ratio          : 0.22 (5816/26516)
+Insertion/Deletion ratio     : 0.89 (55324/62250)
+Indel/SNP+MNP ratio          : 0.32 (149906/461590)
+
+Sample Name: GDLK_08_Guangdong_M
+SNPs                         : 471081
+MNPs                         : 39309
+Insertions                   : 56526
+Deletions                    : 64195
+Indels                       : 35715
+Same as reference            : 107457097
+Missing Genotype             : 178355708
+SNP Transitions/Transversions: 1.69 (558171/330409)
+Total Het/Hom ratio          : 0.12 (73430/593396)
+SNP Het/Hom ratio            : 0.13 (53835/417246)
+MNP Het/Hom ratio            : 0.10 (3440/35869)
+Insertion Het/Hom ratio      : 0.11 (5391/51135)
+Deletion Het/Hom ratio       : 0.10 (5806/58389)
+Indel Het/Hom ratio          : 0.16 (4958/30757)
+Insertion/Deletion ratio     : 0.88 (56526/64195)
+Indel/SNP+MNP ratio          : 0.31 (156436/510390)
+
+Sample Name: GXDGS_07_Guangxi_M
+SNPs                         : 415864
+MNPs                         : 34247
+Insertions                   : 52416
+Deletions                    : 59861
+Indels                       : 30965
+Same as reference            : 116742523
+Missing Genotype             : 169143755
+SNP Transitions/Transversions: 1.58 (462876/293584)
+Total Het/Hom ratio          : 0.20 (99420/493933)
+SNP Het/Hom ratio            : 0.22 (75520/340344)
+MNP Het/Hom ratio            : 0.15 (4411/29836)
+Insertion Het/Hom ratio      : 0.14 (6535/45881)
+Deletion Het/Hom ratio       : 0.15 (7783/52078)
+Indel Het/Hom ratio          : 0.20 (5171/25794)
+Insertion/Deletion ratio     : 0.88 (52416/59861)
+Indel/SNP+MNP ratio          : 0.32 (143242/450111)

@@ -1,0 +1,201 @@
+Location                     : populations.snps.vcf
+Failed Filters               : 0
+Passed Filters               : 519263
+
+Sample Name: S_crocodilurus_200322_F
+SNPs                         : 137196
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 314754
+Missing Genotype             : 67313
+SNP Transitions/Transversions: 1.92 (123341/64267)
+Total Het/Hom ratio          : 1.72 (86784/50412)
+SNP Het/Hom ratio            : 1.72 (86784/50412)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/137196)
+
+Sample Name: S_crocodilurus_202331_M
+SNPs                         : 135516
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 327110
+Missing Genotype             : 56637
+SNP Transitions/Transversions: 1.91 (136660/71483)
+Total Het/Hom ratio          : 0.87 (62889/72627)
+SNP Het/Hom ratio            : 0.87 (62889/72627)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/135516)
+
+Sample Name: S_crocodilurus_205243_F
+SNPs                         : 130266
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 320264
+Missing Genotype             : 68733
+SNP Transitions/Transversions: 1.92 (118686/61911)
+Total Het/Hom ratio          : 1.59 (79935/50331)
+SNP Het/Hom ratio            : 1.59 (79935/50331)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/130266)
+
+Sample Name: S_crocodilurus_205771_F
+SNPs                         : 144454
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 307662
+Missing Genotype             : 67147
+SNP Transitions/Transversions: 1.91 (126587/66296)
+Total Het/Hom ratio          : 1.98 (96025/48429)
+SNP Het/Hom ratio            : 1.98 (96025/48429)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/144454)
+
+Sample Name: S_crocodilurus_301927_M
+SNPs                         : 10896
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 89566
+Missing Genotype             : 418801
+SNP Transitions/Transversions: 1.92 (10500/5473)
+Total Het/Hom ratio          : 1.15 (5819/5077)
+SNP Het/Hom ratio            : 1.15 (5819/5077)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/10896)
+
+Sample Name: S_crocodilurus_SC.10_M
+SNPs                         : 121289
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 341672
+Missing Genotype             : 56302
+SNP Transitions/Transversions: 1.90 (102564/53912)
+Total Het/Hom ratio          : 2.45 (86102/35187)
+SNP Het/Hom ratio            : 2.45 (86102/35187)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/121289)
+
+Sample Name: S_crocodilurus_SC.12_F
+SNPs                         : 111271
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 339547
+Missing Genotype             : 68445
+SNP Transitions/Transversions: 1.88 (102462/54442)
+Total Het/Hom ratio          : 1.44 (65638/45633)
+SNP Het/Hom ratio            : 1.44 (65638/45633)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/111271)
+
+Sample Name: S_crocodilurus_SC.16_M
+SNPs                         : 119590
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 342906
+Missing Genotype             : 56767
+SNP Transitions/Transversions: 1.92 (106042/55357)
+Total Het/Hom ratio          : 1.86 (77781/41809)
+SNP Het/Hom ratio            : 1.86 (77781/41809)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/119590)
+
+Sample Name: S_crocodilurus_SC.1_M
+SNPs                         : 118528
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 344326
+Missing Genotype             : 56409
+SNP Transitions/Transversions: 1.93 (101159/52494)
+Total Het/Hom ratio          : 2.37 (83403/35125)
+SNP Het/Hom ratio            : 2.37 (83403/35125)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/118528)
+
+Sample Name: S_crocodilurus_SC.3_F
+SNPs                         : 98979
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 316408
+Missing Genotype             : 103876
+SNP Transitions/Transversions: 1.87 (85056/45481)
+Total Het/Hom ratio          : 2.14 (67421/31558)
+SNP Het/Hom ratio            : 2.14 (67421/31558)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/98979)
+
+Sample Name: S_crocodilurus_SC.5_F
+SNPs                         : 112881
+MNPs                         : 0
+Insertions                   : 0
+Deletions                    : 0
+Indels                       : 0
+Same as reference            : 330992
+Missing Genotype             : 75390
+SNP Transitions/Transversions: 1.89 (96891/51357)
+Total Het/Hom ratio          : 2.19 (77514/35367)
+SNP Het/Hom ratio            : 2.19 (77514/35367)
+MNP Het/Hom ratio            : - (0/0)
+Insertion Het/Hom ratio      : - (0/0)
+Deletion Het/Hom ratio       : - (0/0)
+Indel Het/Hom ratio          : - (0/0)
+Insertion/Deletion ratio     : - (0/0)
+Indel/SNP+MNP ratio          : 0.00 (0/112881)
